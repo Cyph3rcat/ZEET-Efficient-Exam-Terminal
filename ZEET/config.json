@@ -1,0 +1,31 @@
+
+{
+  "menu": {
+    "title": "#00ffff bold",
+    "menu": "#ffffff",
+    "selected": "reverse bold",
+    "cmd": "bg:#222222 #aaaaaa"
+  },
+  "carousel": {
+    "title": "#00ffff bold",
+    "cmd": "bg:#222222 #cccccc"
+  },
+  "user": {
+    "name" : "Cyph3r"
+  },
+  "dialogue": {
+    "dialog": "bg:#000000",
+    "dialog.body": "bg:#000000 #33ff33",
+    "dialog frame.label": "bg:#000000 #33ff33 bold",
+    "dialog shadow": "bg:#111111",
+    "textbox": "bg:#000000 #33ff33",
+    "button": "#33ff33",
+    "button.focused": "bg:#33ff33 #000000 bold",
+    "dialog frame.border": "#33ff33"
+  },
+  "model": {
+    "api_key": "your_api_key_here",
+    "model": "gpt-4"
+  }
+}
+
